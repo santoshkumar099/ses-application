@@ -1,0 +1,8 @@
+{
+  "xsappname": "ses-application",
+  "tenant-mode": "dedicated",
+  "scopes": [],
+  "attributes": [],
+  "role-templates": [],
+  "authorities-inheritance": false
+}

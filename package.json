@@ -1,0 +1,23 @@
+{
+  "name": "ses_application",
+  "version": "1.0.0",
+  "dependencies": {
+    "@cap-js/hana": "^3",
+    "@sap/cds": "^10",
+    "@sap/xssec": "^4.15.0",
+    "axios": "^1.20.0"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^3.1.1",
+    "@sap/cds-dk": "^10"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  },
+  "private": true,
+  "cds": {
+    "requires": {
+      "destinations": true
+    }
+  }
+}
